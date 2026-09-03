@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Sane's personal website</title>
@@ -13,12 +12,12 @@
     </div><!-- /.container -->
 	<h3>Here's some helpful links</h3>
       <ol>
-        <li><a href=/assets/files/sane_cv_v8.pdf>My CV (current as of Aug. 2026)</a></li>
-        <li><a href=/assets/aboutme.md>About me</a></li>
-        <li><a href=https://scholar.google.com/citations?user=-7Itmo8AAAAJ>My publications</a></li> 
-        <li><a href=https://anna_nimmus.substack.com>My empty substack</a></li>
-        <li><a href=mailto:siddharth.sane@yale.edu>Contact me!</a> Unless you want to send me conspiracy theories. In that case please don't contact me.</li>
-        <li><a href=https://github.com/Element200/mpemba_langevin>My terrible "library"</a> to (semi-) efficiently integrate the Langevin equation and generally do all manner of things Mpemba-related. I'm still proud of it though.</li>
+        <li>[My CV](/assets/files/sane_cv_v8.pdf) (current as of Aug. 2026)</li>
+        <li>[About me](/assets/aboutme.md)</li>
+        <li>[My publications](https://scholar.google.com/citations?user=-7Itmo8AAAAJ)</li> 
+        <li>[My empty substack](anna_nimmus.substack.com)</li>
+        <li>[Contact me!](mailto:siddharth.sane@yale.edu) Unless you want to send me conspiracy theories. In that case please use [this email](mailto:cm.kar@nic.in).</li>
+        <li>[My terrible "library"](https://github.com/Element200/mpemba_langevin) to (semi-) efficiently integrate the Langevin equation and generally do all manner of things Mpemba-related. I'm still proud of it though.</li>
       </ol>
 	<h3>Coming soon!</h3>
 		<ol>
