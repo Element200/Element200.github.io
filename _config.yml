@@ -6,3 +6,4 @@ kramdown:
   math_engine: katex
 plugins:
 - jekyll-remote-theme
+theme: jekyll-theme-midnight
