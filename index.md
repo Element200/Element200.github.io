@@ -11,6 +11,7 @@
     		</div><!-- /.blurb -->
     </div><!-- /.container -->
 	<h3>Here's some helpful links</h3>
+	<nav>
       <ol>
         <li>[My CV](/assets/files/sane_cv_v8.pdf) (current as of Aug. 2026)</li>
         <li>[About me](/assets/aboutme.md)</li>
@@ -19,9 +20,10 @@
         <li>[Contact me!](mailto:siddharth.sane@yale.edu) Unless you want to send me conspiracy theories. In that case please use [this email](mailto:cm.kar@nic.in).</li>
         <li>[My terrible "library"](https://github.com/Element200/mpemba_langevin) to (semi-) efficiently integrate the Langevin equation and generally do all manner of things Mpemba-related. I'm still proud of it though.</li>
       </ol>
+	</nav>
 	<h3>Coming soon!</h3>
 		<ol>
-			<li>A little side project I did in my second year of undergrad on Chebyshev polynomials of the second kind and how they bridge the gap between $n$=coupled oscillators and the standing wave equation. It turned out not to be as novel as I thought it was but it was really cool to rediscover!</li>
+			<li>A little side project I did in my second year of undergrad on Chebyshev polynomials of the second kind and how they bridge the gap between $n$-coupled oscillators and the standing wave equation. It turned out not to be as novel as I thought it was but it was really cool to rediscover!</li>
 			<li>A second edition of my crappy high-school paper on the double pendulum. I often cringe to read the original, in large part because I didn't really know what I was doing and didn't know anything about scientific writing, but I was 17 and dealing with a lot of stuff so I hope you can forgive me for failing to adhere to Strunck & White. The second edition contains more detail and perhaps explains a bunch of things considerably better; at least, well enough for a fairly dedicated high-school student to understand. Hey, if you're a high-school student looking to spend three months on an extremely complicated project worth 3% of your grade, maybe give it a shot!</li>
 		</ol>
   </body>
