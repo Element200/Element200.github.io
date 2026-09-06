@@ -7,3 +7,4 @@ kramdown:
 plugins:
 - jekyll-remote-theme
 theme: jekyll-theme-midnight
+permalink: /blog/:year/:month/:day/:title
